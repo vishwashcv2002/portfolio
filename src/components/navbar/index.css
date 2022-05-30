@@ -1,0 +1,40 @@
+.Navbar {
+    font-size: 0.8rem;
+    padding: 4%;
+}
+.Navbar-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar-side {
+    font-size: 1rem;
+}
+
+.Navbar-side a {
+    padding: 0 2rem;
+}
+.active {
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width:600px) {
+    .Navbar-header {
+        display: block;
+        justify-content: space-between;
+        padding: 8%;
+      }
+      .Navbar-side a {
+          display: block;
+          padding: 1rem 0;
+      }
+      .Navbar-side {
+          margin-top: 10%;
+      }
+    
+}

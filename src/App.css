@@ -1,0 +1,86 @@
+.App-header {
+  margin-top: 6%;
+  margin-bottom: 15%;
+  font-size: 100%;
+  padding: 4%;
+}
+
+.works {
+  padding: 6% 8% 0;
+    border-top: solid 1px black;
+    width: 70%;
+}
+
+.img {
+  padding: 0 5%;
+  margin-bottom: 10%;
+  transition: 0.3s;
+}
+
+.Content {
+  display: flex;
+  padding: 3% 0;
+}
+
+.total-content {
+  justify-content: space-between;
+  padding: 10%;
+  
+}
+
+.img1 {
+  border: solid 1px black;
+  width: 40%;
+  min-width: 500px;
+}
+
+.img:hover {
+  transform: scale(1.1);
+}
+
+.footer {
+  margin: 5% 0;
+}
+
+
+
+@media screen and (max-width: 1300px) {
+  .Content{
+    display: block;
+  }
+  .img {
+    margin: 10% 0;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .img1 {
+    border: solid 1px black;
+    width: 40%;
+    min-width: 400px;
+  }
+  .img {
+    padding: 0%;
+  }
+  .App-header {
+    padding: 8%;
+  }
+  .works {
+    padding: 10% 8% 0;
+    border-top: solid 1px black;
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .App {
+    padding: 0%;
+  }
+  .Content {
+    padding: 0%;
+  }
+  .img {
+    margin-bottom: 30%;
+  }
+}
+

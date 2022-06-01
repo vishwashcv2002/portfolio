@@ -26,12 +26,12 @@ function App() {
                                     <div className='img'>
                                         <img className="img1" src={Img1}/>
                                         <h1>Vadoo and UUKI</h1>
-                                        <h2>UX designer Intern May 2022</h2>
+                                        <h3>UX designer Intern May 2022</h3>
                                     </div>
                                     <div  className='img'>
                                         <img className="img1" src={Img2}/>
                                         <h1>UUKI Community plaform</h1>
-                                        <h2>Project Mobile app and Website May 2022</h2>
+                                        <h3>Project Mobile app and Website May 2022</h3>
                                     </div>
                             </div>
                             <div className='Content'>
@@ -39,14 +39,14 @@ function App() {
                                     <a href="https://vishwashcv.github.io/sample_websites/Nothing/index.html">
                                         <img className="img1" src={Img3}/>
                                         <h1>WEBSITE</h1>
-                                        <h2>Its just a website for design purpose.</h2>
+                                        <h3>Its just a website for design purpose.</h3>
                                         </a>
                                     </div>
                                     <div  className='img'>
                                     <a href="https://vishwashcv.github.io/sample_websites/index.html">
                                     <img className="img1" src={Img4}/>
                                     <h1>TIME TABLE</h1>
-                                        <h2>This Time Table is build for html layout practice.</h2>
+                                        <h3>This Time Table is build for html layout practice.</h3>
                                         </a>
                                     </div>
 
@@ -56,14 +56,14 @@ function App() {
                                     <a href="https://vishwashcv.github.io/sample_websites/flipkart/flipkart site.html">
                                         <img className="img1" src={Img5}/>
                                         <h1>FLIPKART CLONE</h1>
-                                        <h2>This website is build for flipkart clone UI.</h2>
+                                        <h3>This website is build for flipkart clone UI.</h3>
                                         </a>
                                     </div>
                                     <div  className='img'>
                                     <a href="https://vishwashcv.github.io/sample_websites/web2/index.html">
                                     <img className="img1" src={Img6}/>
                                     <h1>FOOD ORDER</h1>
-                                        <h2>This website is build for to order foods (UI).</h2>
+                                        <h3>This website is build for to order foods (UI).</h3>
                                         </a>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@ function App() {
                                     <a href="https://vishwash.000webhostapp.com/">
                                         <img className="img1"  src={Img7}/>
                                         <h1>UNIVERSITY</h1>
-                                        <h2>This University Project build for college students, and college management.</h2>
+                                        <h3>This University Project build for college students, and college management.</h3>
                                         </a>
                                     </div>
                                     <div  className='img'>
@@ -80,7 +80,7 @@ function App() {
                                     <img className="img1" src={Img8}/>
                                     
                                     <h1>TICKET BOOKING</h1>
-                                        <h2>This Ticket booking Project build for to book the tickets of the movie.</h2>
+                                        <h3>This Ticket booking Project build for to book the tickets of the movie.</h3>
                                         </a>  
                                     </div>
                                 </div>

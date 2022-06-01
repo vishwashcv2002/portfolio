@@ -20,7 +20,7 @@ function App() {
       <div className='works'>
       <h1>My Works</h1>
       </div>
-      
+      </center>
       <div className='total-content'>
                           <div className='Content'>
                                     <div className='img'>
@@ -86,6 +86,7 @@ function App() {
                                 </div>
 
             </div>
+            <center>
             <hr/>
             <div className='footer'>
             <a href="mailto:vishwashclever@gmail.com">

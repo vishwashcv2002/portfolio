@@ -5,7 +5,7 @@
  }
 
 body {
-  animation: fadeIn 5s;
+  animation: fadeIn 5s ease;
   transition: 1s;
   max-width: 100vw;
 }
@@ -14,5 +14,12 @@ body {
   0% {opacity:0;}
   100% {opacity:1;}
 }
-
+@keyframes slideup {
+  0%{
+    transform: translateY(150px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
 

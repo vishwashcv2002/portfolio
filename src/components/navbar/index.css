@@ -31,7 +31,7 @@ a {
       }
       .Navbar-side a {
           display: block;
-          padding: 1rem 0;
+          padding: 0.7rem 0;
       }
       .Navbar-side {
           margin-top: 10%;

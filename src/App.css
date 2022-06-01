@@ -3,7 +3,7 @@
   margin-bottom: 15%;
   font-size: 100%;
   padding: 4%;
-  animation: slideup 1.8s ease-in;
+  animation: slideup 1.8s ease;
 }
 @keyframes slideup {
   0%{
